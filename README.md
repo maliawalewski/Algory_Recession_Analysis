@@ -1,4 +1,4 @@
-# 🛢Recession Performance of Global Retailers
+# Recession Performance of Global Retailers
 
 This notebook explores how major global retailers performed during the COVID-19 and 2008 recession using adjusted stock prices.
 
